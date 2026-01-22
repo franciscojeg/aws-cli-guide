@@ -135,7 +135,7 @@ aws-cli-guide/
 ├── LICENSE             # Licencia MIT
 ├── CONTRIBUTING.md     # Guía de contribución
 └── docs/
-    ├── Guia_AWS_CLI_Commands.docx    # Guía completa (DOCX)
+    ├── Guia_AWS_CLI_Commands.pdf     # Guía completa (PDF)
     └── AWS_CLI_Guide.md              # Guía completa (Markdown)
 ```
 
