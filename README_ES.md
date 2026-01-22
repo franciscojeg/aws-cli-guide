@@ -157,9 +157,9 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](.
 
 **Francisco Javier Escobar García**
 
-- LinkedIn: [Conectar](https://linkedin.com/in/tu-perfil)
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- dev.to: [Artículos de AWS](https://dev.to/tu-usuario)
+- LinkedIn: [Conectar](https://linkedin.com/in/franciscojeg/)
+- GitHub: [@tu-usuario](https://github.com/franciscojeg)
+- dev.to: [Artículos de AWS](https://dev.to/franciscojeg78)
 
 ## ⭐ Muestra tu Apoyo
 
