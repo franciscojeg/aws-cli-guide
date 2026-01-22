@@ -79,7 +79,7 @@ This guide compiles the most important AWS CLI commands organized by service. Wh
 
 | Format | Description | Link |
 |--------|-------------|------|
-| 📄 **DOCX** | Full formatted document | [Download](./docs/Guia_AWS_CLI_Commands.docx) |
+| 📄 **PDF** | Full formatted document | [Download](./docs/Guia_AWS_CLI_Commands.pdf) |
 | 📖 **Markdown** | Read online | [View](./docs/AWS_CLI_Guide.md) |
 
 ## 💡 Most Used Commands
