@@ -79,7 +79,7 @@ Esta guía recopila los comandos más importantes de AWS CLI organizados por ser
 
 | Formato | Descripción | Enlace |
 |---------|-------------|--------|
-| 📄 **DOCX** | Documento completo formateado | [Descargar](./docs/Guia_AWS_CLI_Commands.docx) |
+| 📄 **PDF** | Full formatted document | [Download](./docs/Guia_AWS_CLI_Commands.pdf) |
 | 📖 **Markdown** | Leer en línea | [Ver](./docs/AWS_CLI_Guide.md) |
 
 ## 💡 Comandos Más Usados
