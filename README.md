@@ -157,8 +157,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Francisco Javier Escobar García**
 
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [Connect with me](https://linkedin.com/in/franciscojeg/)
+- GitHub: [@franciscojeg](https://github.com/franciscojeg)
 
 ## ⭐ Show Your Support
 
